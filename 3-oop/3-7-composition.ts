@@ -172,5 +172,4 @@
   const latteMachine = new CoffeeMachine(10, cheapMilkMaker, noSuger);
   const coldLatteMachine = new CoffeeMachine(10, coldMilkMaker, noSuger);
   const sweetLatteMachine = new CoffeeMachine(12, cheapMilkMaker, candySuger);
-  console.log(sweetLatteMachine);
 }

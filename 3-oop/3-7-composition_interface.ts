@@ -139,6 +139,7 @@
     }
   }
 
+  // 커피머신
   class CaffeeLatteMachine extends CoffeeMachine {
     constructor(
       beans: number,
